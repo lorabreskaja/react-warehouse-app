@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "name": "Jacket",
+        "ean": "4549292006292",
+        "type": "clothing",
+        "weight": "565",
+        "color": "black"
+    },
+    {
+        "id": "2",
+        "name": "Jeans",
+        "ean": "4549292006298",
+        "type": "clothing",
+        "weight": "453",
+        "color": "blue"
+    },
+    {
+        "id": "3",
+        "name": "T-shirt",
+        "ean": "4549292006290",
+        "type": "clothing",
+        "weight": "288",
+        "color": "pink"
+    },
+    {
+        "id": "4",
+        "name": "Shorts",
+        "ean": "4549292006291",
+        "type": "clothing",
+        "weight": "343",
+        "color": "green"
+    }
+]

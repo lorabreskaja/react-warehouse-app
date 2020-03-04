@@ -1,0 +1,42 @@
+.Products {
+    margin: 40px auto;
+    table-layout: fixed; 
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    border: 1px solid #ffffff;
+    font-size: calc(8px + 1vmin);
+    width: 1200px;
+    margin: 40px auto;
+    background-color: #565e6e;
+    color: #ffffff;
+}
+
+.Products th,
+.Products td {
+    padding: 20px 10px;
+    border-bottom: 1px solid #ffffff;
+}
+
+.Products button {
+    height: 40px;
+    width: 60px;
+    border-radius: 5px;
+    border: 0;
+    cursor: pointer;
+    font-weight: bolder;
+    color: #ffffff;
+}
+
+.View {
+    background-color: #A9A9A9;
+}
+
+.Edit {
+    background-color: #6769E9;
+}
+
+.Delete {
+    background-color: #b22222;
+}
+

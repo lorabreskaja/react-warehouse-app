@@ -1,0 +1,39 @@
+.NewProduct {
+    width: 800px;
+    margin: 40px auto;
+    background-color: #565e6e;
+    color: #ffffff;
+    border-collapse: collapse;
+    border: 1px solid #ffffff;
+    font-size: calc(8px + 1vmin);
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.NewProduct button {
+    height: 50px;
+    width: 80px;
+    border-radius: 5px;
+    border: 0;
+    cursor: pointer;
+    font-weight: bolder;
+    color: #ffffff;
+    background-color: #6769E9;
+    margin: 20px 0;
+}
+
+.Input {
+    height: 35px;
+    width: 300px;
+    margin: 10px 0;
+}
+
+.NewProduct label {
+    padding-right: 10px;
+}
+
+.NewProduct a {
+    color: #ffffff;
+}
+
+

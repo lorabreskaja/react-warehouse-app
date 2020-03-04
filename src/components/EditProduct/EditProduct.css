@@ -1,0 +1,11 @@
+.EditProduct {
+    width: 800px;
+    margin: 40px auto;
+    background-color: #565e6e;
+    color: #ffffff;
+    border-collapse: collapse;
+    border: 1px solid #ffffff;
+    font-size: calc(8px + 1vmin);
+    text-align: center;
+    padding-bottom: 20px;
+}
